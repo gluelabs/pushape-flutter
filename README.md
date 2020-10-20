@@ -1,6 +1,6 @@
 # pushape_flutter
 
-A Flutter SDK for Pushape push notification handling
+A Flutter SDK for [**Pushape**](https://app.pushape.com) push notification handling
 
 #### IMPORTANT
 This package is heavily dependent from the [**firebase_messaging**](https://pub.dev/packages/firebase_messaging) package.\
