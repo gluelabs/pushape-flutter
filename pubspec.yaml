@@ -1,7 +1,7 @@
 name: pushape_flutter
-description: flutter pushape notification plugin
+description: flutter pushape notification package
 version: 0.0.1
-author:
+author: GlueLabs / Giuse Petroso
 homepage:
 
 environment:
